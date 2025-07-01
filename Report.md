@@ -1,4 +1,4 @@
-# 📝 Password Strength Evaluation Report
+#  Password Strength Evaluation Report
 
 ## Task Overview
 This task involved creating multiple passwords of varying complexity and analyzing their strength using online password evaluation tools. The aim was to understand what makes a password secure and how to protect against common attacks like brute force and dictionary attacks.
@@ -10,7 +10,7 @@ This task involved creating multiple passwords of varying complexity and analyzi
 | password123      | Weak             | < 1 second            | Common and predictable             |
 | ilovecoffee      | Weak             | < 5 seconds           | No variety, only lowercase letters |
 | QwErTy123        | Moderate         | 3 hours               | Predictable pattern                |
-| P@ssw0rd2025!    | Strong           | 2 years               | Good mix of characters and length  |
+| P@ssw0rd2025!    | Strong           | 2 Billion years       | Good mix of characters and length  |
 | A!9x#LzT@q6      | Very Strong      | 10^34 years           | Random, long, and complex          |
 
 ## What Makes a Password Strong?
